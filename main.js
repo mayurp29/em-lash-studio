@@ -92,7 +92,7 @@ const packages = [
   {
     name: 'Waxing Essentials',
     description: 'Popular waxing services grouped for clients who want multiple areas handled together.',
-    includes: ['Under arms', 'Arms or legs', 'Bikini or Brazilian available']
+    includes: ['Under arms', 'Arms or legs', 'available']
   }
 ];
 
