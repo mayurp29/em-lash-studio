@@ -69,10 +69,7 @@ const services = [
   { category: 'Waxing', name: 'Under Arms' },
   { category: 'Waxing', name: 'Half Legs' },
   { category: 'Waxing', name: 'Full Legs' },
-  { category: 'Waxing', name: 'Bikini Line' },
-  { category: 'Waxing', name: 'Brazilian' },
   { category: 'Waxing', name: 'Vajacial' },
-  { category: 'Waxing', name: 'Full Body' },
   { category: 'Waxing', name: 'Skin Tag Remove' }
 ];
 
